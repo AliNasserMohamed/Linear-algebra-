@@ -8,3 +8,17 @@ the project has 3 main notbooks
 
 3- see if system of linear equations has solution or not 
 
+## 1- vector Space and Gram Shmidt.
+### this notbook study the following 
+1- Vector Span
+
+2- Linear Transformation
+
+3- Determinant
+
+4-Matrix Rank
+
+5-Vector Linear Independence
+
+6-Gram–Schmidt Process (Orthogonalization)
+
